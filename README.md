@@ -19,7 +19,7 @@ A simple and organized **React Native** application for managing cooking recipes
 - Android/iOS emulator or physical device
 
 
-🛠️ Technologies Used
+#### 🛠️ Technologies Used
 React Native
 
 React Navigation
